@@ -1,6 +1,6 @@
 # Common settings
 server:
-  port: 8080
+  port: 8090
 spring:
   #profiles: product # Another profile, you can define more profiles as needed
   application:
